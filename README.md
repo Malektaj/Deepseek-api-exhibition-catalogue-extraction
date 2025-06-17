@@ -5,7 +5,7 @@ Extract, interpret and structure data from Historical exhibition catalogues for 
 
 This GitHub repository was made as supplement to my Master’s thesis and contains 3 files.
 1. The python code for the pipeline used to extract, interpret and structure data from 19th century Dutch exhibition catalogues. 
-2. A raw output example
+2. a raw output example (small)
 3. The final dataset used throughout my thesis, after manual cleaning and manual data addition.
 
 
