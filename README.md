@@ -17,10 +17,17 @@ This GitHub repository was made as supplement to my Master’s thesis and contai
 
 The aim of the pipeline is to use LLMs (in this case DeepSeek’s reasoner model accessed through their API) to extract, interpret and structure data about art exhibitions from digitized exhibition catalogues in PDF format (text extractable). With the purpose of creating a dataset compatible with statistical analysis of catalogue data. 
 
-
-
 ---
 
+## **Dependencies**
+
+- pandas
+- PyMuPDF (fitz)
+- tqdm
+- openai
+- csv
+- os
+---
 
 ## **Output**
 
